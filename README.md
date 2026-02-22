@@ -62,30 +62,6 @@ Batch Inference Demonstration
 
 ---
 
-# 📂 Project Structure
-MLops-Project-AAI-540/
-│
-├── data/
-│ ├── LSWMD.pkl
-│ ├── X_train.npy
-│ ├── y_train.npy
-│ ├── X_val.npy
-│ ├── y_val.npy
-│ ├── X_test.npy
-│ ├── y_test.npy
-│ └── model.pt
-│
-├── notebooks/
-│ ├── 01_Data_Preparation.ipynb
-│ ├── 02_EDA.ipynb
-│ ├── 03_Model_Training.ipynb
-│ ├── 04_Model_Evaluation.ipynb
-│ └── 05_Batch_Inference.ipynb
-│
-└── README.md
-
-
-
 ---
 
 # 📊 Dataset
