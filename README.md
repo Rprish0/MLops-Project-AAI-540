@@ -111,4 +111,4 @@ Recall is emphasized due to manufacturing yield implications.
 # ☁️ Cloud Integration
 
 Data and model artifacts are stored in Amazon S3:
-s3:///<sagemaker-us-east-1-702452513784/>/wafer-project/
+s3://<sagemaker-us-east-1-702452513784>/wafer-project/
